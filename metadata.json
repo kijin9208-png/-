@@ -1,0 +1,7 @@
+{
+  "name": "바른손치과 (Bareunson Dental) - Premium Laminate Boutique",
+  "description": "프리미엄 라미네이트 전문 바른손치과의 고품격 의료 서비스를 경험해보세요. 최첨단 기술과 예술적 감각의 만남.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
